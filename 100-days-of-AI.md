@@ -1,3 +1,5 @@
+![image](assets/ai100days.png)
+
 # 100 Days of AI
 - Level: Intermediate / Architects
 - Relevance: As on Sept 2025
