@@ -1,6 +1,6 @@
 #100 Days of AI
 
-| Day | Topic / Focus Area                                                        | Platform              | Resource/Course Link                                                                                 | Suggested Coverage                                 |
+| Day | Topic / Focus Area | Platform | Resource | Suggested Coverage | 
 |-----|--------------------------------------------------------------------------|-----------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | 1   | GenAI Architect Patterns, Industry Landscape                             | Pluralsight           | https://www.pluralsight.com/courses/generative-ai-models-architecture                               | Enterprise Patterns & Industry Use Cases           |
 | 2   | Exploring GenAI Use Cases                                                | Pluralsight           | https://www.pluralsight.com/paths/exploring-generative-ai                                           | Solution Architect Blueprints                      |
@@ -89,7 +89,7 @@
 | 85  | Analytics: Usage Metrics Analysis                                       | Docs                  | https://learn.microsoft.com/en-us/azure/azure-monitor/overview                                      | Usage analytics, dashboarding                      |
 | 86  | Project Retrospective / Lessons Learned                                 | Docs                  | https://learn.microsoft.com/en-us/azure/devops/agile/retrospectives                                 | Retrospective, lessons, team review                |
 | 87  | Documenting Technical Deep-Dives: Blog/Screencast                       | Docs                  | https://pages.github.com/                                                                           | Technical documentation, knowledge sharing         |
-| 88  | Network: Conferences, Meetups, LinkedIn Learning                        | https://www.linkedin.com/learning/topics/generative-ai                                              | Professional networking, events                    |
+| 88  | Network: Conferences, Meetups, LinkedIn Learning                        | LinedIn Learning | https://www.linkedin.com/learning/topics/generative-ai                                              | Professional networking, events                    |
 | 89  | Continue Learning: Newsletters, Trends                                  | Docs                  | https://aiweekly.co/                                                                                | Subscribe, continue tracking trends                |
 | 90  | Certification: GenAI, Azure AI                                          | LinkedIn Learning      | https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin | Certification prep, exam                           |
 | 91  | Interview Prep: GenAI Solutioning                                       | LinkedIn Learning      | https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-developers                | Interview, solution approach                       |
