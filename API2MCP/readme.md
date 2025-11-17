@@ -34,3 +34,11 @@ For this example purpose, I have used openly available DogAPI - https://dogapi.d
 - **api-to-mcpserver.py** - An MCP Server which wraps all the dodapi. When the server is up, you can access using any MCP Client code to access the tools
 
 - **mcpclient-example.py** - Using the same FastMCP, the client call demonstrates listing of all the available tools (useful to know the newly generated tool names by MCP Server) and calls one tool.
+
+## How to execute the sample scripts
+
+* Step 1: Start Server and keep it running
+    * python api-to-mcpserver.py
+
+* Step 2: Run client script
+    * python mcpclient-example.py
