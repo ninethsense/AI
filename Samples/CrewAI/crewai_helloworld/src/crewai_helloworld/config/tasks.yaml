@@ -1,0 +1,32 @@
+# src/latest_ai_development/config/tasks.yaml
+design_architecture_task:
+  description: >
+    Analyze the requirements for {topic} and design a comprehensive 
+    agentic AI architecture. Identify the necessary agents, their 
+    specific tools, the communication patterns (e.g., sequential, 
+    hierarchical, or joint-task), and the state management approach. 
+    Ensure the design addresses scalability and technical constraints 
+    relevant to the year 2026.
+  expected_output: >
+    A formal architectural blueprint including:
+    1. System Overview
+    2. Agent Definitions & Personas
+    3. Tooling & Integration Requirements
+    4. Orchestration Logic & Error Handling Strategies
+  agent: agentic_architect
+
+critique_and_audit_task:
+  description: >
+    Review the architectural blueprint provided by the Architect. 
+    Perform a "Red Team" analysis to identify potential failure points 
+    such as security vulnerabilities (prompt injection), API cost 
+    inefficiencies, and integration bottlenecks with enterprise systems. 
+    Provide specific, actionable recommendations to harden the 
+    architecture for production use.
+  expected_output: >
+    An Enterprise Audit Report formatted in Markdown (without code blocks). 
+    The report must include a "Risk vs. Feasibility" score, a list of 
+    identified architectural gaps, and a final set of hardening 
+    recommendations for the {topic} implementation.
+  agent: enterprise_critique
+  output_file: architecture_audit_report.md
