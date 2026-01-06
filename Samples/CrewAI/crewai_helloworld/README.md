@@ -37,6 +37,13 @@ crewai install
 - Modify `src/crewai_helloworld/crew.py` to add your own logic, tools and specific args
 - Modify `src/crewai_helloworld/main.py` to add custom inputs for your agents and tasks
 
+Note: I have used Gemini so my .env file looks like this:
+```
+MODEL=gemini/gemini-2.5-flash-lite
+GEMINI_API_KEY=YOUR_KEY
+SERPER_API_KEY=YOUR_KEY
+```
+
 ## Running the Project
 
 To kickstart your crew of AI agents and begin task execution, run this from the root folder of your project:
