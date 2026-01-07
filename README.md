@@ -2,6 +2,7 @@
 
 ## 1. General Resources
 - [100 Days of AI - Topics List for Learners](/100-days-of-AI.md)
+- [Hello World - Samples for beginners](/Samples) 
 
 ## 2. [RAG Patterns](/RAG)
 
